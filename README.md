@@ -18,10 +18,11 @@ This code uses inline ARM assembly with C to generate images of the Mandelbrot s
 ## Results
 You can find here some images generated using this tool. Given the dimensions of the simulated VGA screen, the resolution is capped at 320 pixels width by 240 pixels height.
 
-***Images will be added soon!***
-<!--
-Image 1 - Complete set
-Image 2 - Set zoomed in at 5x
-Image 3 - Set zoomed in at 10x
-LATER - Describe the signification of each one of those specific patterns
--->
+**Image 1 - Complete set**
+![alt text](https://github.com/mathias-pl/fractals-with-ARM/blob/main/full_mandelbrot_30iterations.png?raw=true)
+
+**Image 2 - Set zoomed in at 5x**
+![alt text](https://github.com/mathias-pl/fractals-with-ARM/blob/main/zoomed_mandelbrot_15iterations.png?raw=true)
+
+**Image 3 - Set zoomed in at 10x**
+![alt text](https://github.com/mathias-pl/fractals-with-ARM/blob/main/zoomed_mandelbrot_50iterations.png?raw=true)
